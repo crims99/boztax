@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:329px;
+  width:318px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -16,14 +16,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:329px;
+  width:318px;
   height:550px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(121, 121, 121, 1);
+  border-color:rgba(204, 204, 204, 1);
   border-radius:0px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
@@ -33,14 +33,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:329px;
+  width:318px;
   height:550px;
 }
 #u1 {
   position:absolute;
   left:2px;
   top:267px;
-  width:325px;
+  width:314px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -48,7 +48,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:329px;
+  width:318px;
   height:44px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
@@ -62,14 +62,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:329px;
+  width:318px;
   height:44px;
 }
 #u3 {
   position:absolute;
   left:2px;
   top:14px;
-  width:325px;
+  width:314px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -121,7 +121,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:329px;
+  width:318px;
   height:44px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
@@ -135,14 +135,14 @@
   position:absolute;
   left:0px;
   top:506px;
-  width:329px;
+  width:318px;
   height:44px;
 }
 #u9 {
   position:absolute;
   left:2px;
   top:14px;
-  width:325px;
+  width:314px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -155,7 +155,7 @@
 }
 #u10 {
   position:absolute;
-  left:12px;
+  left:6px;
   top:513px;
   width:30px;
   height:30px;
@@ -177,7 +177,7 @@
 }
 #u12 {
   position:absolute;
-  left:150px;
+  left:144px;
   top:513px;
   width:30px;
   height:30px;
@@ -199,7 +199,7 @@
 }
 #u14 {
   position:absolute;
-  left:288px;
+  left:282px;
   top:513px;
   width:30px;
   height:30px;
@@ -221,7 +221,7 @@
 }
 #u16 {
   position:absolute;
-  left:81px;
+  left:75px;
   top:513px;
   width:30px;
   height:30px;
@@ -243,7 +243,7 @@
 }
 #u18 {
   position:absolute;
-  left:219px;
+  left:213px;
   top:513px;
   width:30px;
   height:30px;
